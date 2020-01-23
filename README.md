@@ -1,4 +1,6 @@
-# KeenOptic
+
+![Image of Keen Optic](https://gamepedia.cursecdn.com/dota2_gamepedia/d/dc/Keen_Optic_icon.png)
+#  KeenOptic 
 Analyze and track team member's impact
 
 ### Overall Goal
