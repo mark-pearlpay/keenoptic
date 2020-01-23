@@ -1,4 +1,4 @@
-# Binocular
+# KeenOptic
 Analyze and track team member's impact
 
 ### Overall Goal
